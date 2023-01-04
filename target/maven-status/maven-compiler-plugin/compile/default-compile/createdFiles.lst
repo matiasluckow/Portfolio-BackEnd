@@ -36,7 +36,6 @@ com\portfolio\MatiasLuckow\Service\SRed.class
 com\portfolio\MatiasLuckow\Repository\RPersona.class
 com\portfolio\MatiasLuckow\Dto\dtoProyecto.class
 com\portfolio\MatiasLuckow\Security\Enums\RolNombre.class
-com\portfolio\MatiasLuckow\WebConfig.class
 com\portfolio\MatiasLuckow\Entity\Hys.class
 com\portfolio\MatiasLuckow\Dto\dtoPersona.class
 com\portfolio\MatiasLuckow\Service\SCurso.class
