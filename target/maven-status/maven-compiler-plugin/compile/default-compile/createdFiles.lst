@@ -24,7 +24,6 @@ com\portfolio\MatiasLuckow\Repository\RCurso.class
 com\portfolio\MatiasLuckow\Dto\dtoCurso.class
 com\portfolio\MatiasLuckow\Controller\CPersona.class
 com\portfolio\MatiasLuckow\Repository\RExperiencia.class
-com\portfolio\MatiasLuckow\Dto\dtoHys.class
 com\portfolio\MatiasLuckow\Service\SExperiencia.class
 com\portfolio\MatiasLuckow\Repository\RProyecto.class
 com\portfolio\MatiasLuckow\Security\Repository\iUsuarioRepository.class
@@ -49,7 +48,6 @@ com\portfolio\MatiasLuckow\Entity\Red.class
 com\portfolio\MatiasLuckow\Security\Repository\iRolRepository.class
 com\portfolio\MatiasLuckow\Repository\REstudio.class
 com\portfolio\MatiasLuckow\Controller\CProyecto.class
-com\portfolio\MatiasLuckow\Controller\CHys.class
 com\portfolio\MatiasLuckow\Security\Jwt\JwtProvider.class
 com\portfolio\MatiasLuckow\Security\Service\UserDetailsImpl.class
 com\portfolio\MatiasLuckow\Controller\CCurso.class
