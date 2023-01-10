@@ -9,6 +9,7 @@ C:\Users\matil\Desktop\MatiasLuckow\src\main\java\com\portfolio\MatiasLuckow\Sec
 C:\Users\matil\Desktop\MatiasLuckow\src\main\java\com\portfolio\MatiasLuckow\Security\Dto\NuevoUsuario.java
 C:\Users\matil\Desktop\MatiasLuckow\src\main\java\com\portfolio\MatiasLuckow\Service\SRed.java
 C:\Users\matil\Desktop\MatiasLuckow\src\main\java\com\portfolio\MatiasLuckow\Repository\RProyecto.java
+C:\Users\matil\Desktop\MatiasLuckow\src\main\java\com\portfolio\MatiasLuckow\Dto\dtoHys.java
 C:\Users\matil\Desktop\MatiasLuckow\src\main\java\com\portfolio\MatiasLuckow\Entity\Curso.java
 C:\Users\matil\Desktop\MatiasLuckow\src\main\java\com\portfolio\MatiasLuckow\Security\Repository\iRolRepository.java
 C:\Users\matil\Desktop\MatiasLuckow\src\main\java\com\portfolio\MatiasLuckow\Dto\dtoCurso.java
@@ -41,6 +42,7 @@ C:\Users\matil\Desktop\MatiasLuckow\src\main\java\com\portfolio\MatiasLuckow\Rep
 C:\Users\matil\Desktop\MatiasLuckow\src\main\java\com\portfolio\MatiasLuckow\Dto\dtoProyecto.java
 C:\Users\matil\Desktop\MatiasLuckow\src\main\java\com\portfolio\MatiasLuckow\Security\Entity\Usuario.java
 C:\Users\matil\Desktop\MatiasLuckow\src\main\java\com\portfolio\MatiasLuckow\Controller\CExperiencia.java
+C:\Users\matil\Desktop\MatiasLuckow\src\main\java\com\portfolio\MatiasLuckow\Controller\CHys.java
 C:\Users\matil\Desktop\MatiasLuckow\src\main\java\com\portfolio\MatiasLuckow\Security\Repository\iUsuarioRepository.java
 C:\Users\matil\Desktop\MatiasLuckow\src\main\java\com\portfolio\MatiasLuckow\Entity\Persona.java
 C:\Users\matil\Desktop\MatiasLuckow\src\main\java\com\portfolio\MatiasLuckow\Security\Jwt\JwtEntryPoint.java
