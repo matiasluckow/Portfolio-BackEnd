@@ -1,14 +1,17 @@
 com\portfolio\MatiasLuckow\Security\Service\RolService.class
 com\portfolio\MatiasLuckow\Security\Entity\Rol.class
 com\portfolio\MatiasLuckow\Dto\dtoExperiencia.class
+com\portfolio\MatiasLuckow\Entity\LogoArgProg.class
 com\portfolio\MatiasLuckow\Security\Service\UsuarioService.class
 com\portfolio\MatiasLuckow\Security\Dto\JwtDto.class
 com\portfolio\MatiasLuckow\Controller\CRed.class
 com\portfolio\MatiasLuckow\Security\Controller\Mensaje.class
 com\portfolio\MatiasLuckow\Service\SHys.class
+com\portfolio\MatiasLuckow\Service\SLogoArgProg.class
 com\portfolio\MatiasLuckow\Entity\Estudio.class
 com\portfolio\MatiasLuckow\Service\SProyecto.class
 com\portfolio\MatiasLuckow\Repository\RHys.class
+com\portfolio\MatiasLuckow\Dto\dtoLogoArgProg.class
 com\portfolio\MatiasLuckow\Entity\Experiencia.class
 com\portfolio\MatiasLuckow\Entity\Persona.class
 com\portfolio\MatiasLuckow\Security\Dto\LoginUsuario.class
@@ -38,6 +41,7 @@ com\portfolio\MatiasLuckow\Dto\dtoProyecto.class
 com\portfolio\MatiasLuckow\Security\Enums\RolNombre.class
 com\portfolio\MatiasLuckow\Entity\Hys.class
 com\portfolio\MatiasLuckow\Dto\dtoPersona.class
+com\portfolio\MatiasLuckow\Repository\RLogoArgProg.class
 com\portfolio\MatiasLuckow\Service\SCurso.class
 com\portfolio\MatiasLuckow\Controller\CExperiencia.class
 com\portfolio\MatiasLuckow\Security\Entity\UsuarioPrincipal.class
@@ -49,5 +53,6 @@ com\portfolio\MatiasLuckow\Controller\CHys.class
 com\portfolio\MatiasLuckow\Security\Jwt\JwtProvider.class
 com\portfolio\MatiasLuckow\Security\Service\UserDetailsImpl.class
 com\portfolio\MatiasLuckow\Controller\CCurso.class
+com\portfolio\MatiasLuckow\Controller\CArgProg.class
 com\portfolio\MatiasLuckow\Repository\RRed.class
 com\portfolio\MatiasLuckow\Security\Jwt\JwtTokenFilter.class
